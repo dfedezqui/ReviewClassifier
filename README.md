@@ -43,7 +43,6 @@ TR1_SENTIMENT_ANALYSIS/
 | `train.py` | Script que **genera y guarda el modelo** a partir de los datos de entrenamiento |
 | `test.py` | Script que **evalúa el modelo** y devuelve el **porcentaje de aciertos** |
 | `app.py` | Lanza el servidor **Flask** para probar el modelo desde el navegador |
-| `mapa_trabajo.md` | Documento de **documentación del proyecto** — aquí se registra el progreso y estructura del trabajo |
 
 ---
 
