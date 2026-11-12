@@ -1,4 +1,4 @@
-# 🧠 TR1 — Análisis de Sentimientos
+# 🧠 ReviewClassifier
 
 > Proyecto de análisis de sentimientos con modelo de Machine Learning propio y una interfaz web servida con Flask.
 
@@ -10,7 +10,6 @@
 TR1_SENTIMENT_ANALYSIS/
 │
 ├── dataset/
-│   ├── 400kR/               # Dataset extendido de entrenamiento
 │   ├── review.txt           # 📚 Datos para entrenar el modelo
 │   └── casos_prueba.txt     # 🧪 Casos usados para el test/evaluación
 │
